@@ -1,0 +1,38 @@
+{
+    "name": "dsa-41-macros",
+    "title": "DSA 4.1 Macros",
+    "description": "Das Schwarze Auge 4.1 Macros für das Foundry Virtual TableTop System",
+    "version": "1.0.0",
+    "authors": [
+      {
+        "id": "unzumutbar",
+        "name": "Unzumutbar"
+      }
+    ],
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "10",
+    "compatibility": {
+      "minimum": 8,
+      "verified": 10
+    },
+    "packs": [
+        {
+            "name": "dsa-41-macros",
+            "label": "DSA 4.1 Macros",
+            "path": "./packs/dsa-41-macros.db",
+            "type": "Macro",
+            "entity": "Macro",
+            "module": "dsa-4.1-macros"
+        },
+        {
+            "name": "dsa-41-tables",
+            "label": "DSA 4.1 Tables",
+            "path": "./packs/dsa-41-tables.db",
+            "type": "RollTable",
+            "entity": "RollTable",
+            "module": "dsa-4.1-macros"
+        },
+    ],
+    "manifest": "https://raw.githubusercontent.com/Unzumutbar/dsa-41-compendiums/main/module.json",
+    "download": "https://github.com/Unzumutbar/releases/download/v1.1.0/dsa-41-macros-v1.0.0.zip"
+  }

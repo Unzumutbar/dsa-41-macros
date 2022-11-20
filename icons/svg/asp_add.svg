@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512px"
+   height="512px"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg845"
+   sodipodi:docname="asp_add.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata851">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs849" />
+  <sodipodi:namedview
+     pagecolor="#fe76ff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3440"
+     inkscape:window-height="1361"
+     id="namedview847"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="1.6034199"
+     inkscape:cx="300.30546"
+     inkscape:cy="181.892"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg845"
+     inkscape:document-rotation="0" />
+  <path
+     d="m 499.38229,399.79682 h -56.77968 v -59.40168 c 0,-7.28908 -5.65037,-13.20037 -12.61771,-13.20037 h -12.61769 c -6.96734,0 -12.61771,5.91129 -12.61771,13.20037 v 59.40168 h -56.77968 c -6.96734,0 -12.61771,5.91129 -12.61771,13.20037 v 13.20038 c 0,7.28908 5.65037,13.20037 12.61771,13.20037 h 56.77968 v 59.40168 c 0,7.28908 5.65037,13.20038 12.61771,13.20038 h 12.61769 c 6.96734,0 12.61771,-5.9113 12.61771,-13.20038 v -59.40168 h 56.77968 c 6.96734,0 12.61771,-5.91129 12.61771,-13.20037 v -13.20038 c 0,-7.28908 -5.65037,-13.20037 -12.61771,-13.20037 z"
+     id="path863"
+     style="fill:#00ff00;fill-opacity:1;stroke-width:0.403305" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:288px;line-height:1.25;font-family:MasonSerifBold;-inkscape-font-specification:MasonSerifBold;fill:#ffffff;fill-opacity:1;stroke:none"
+     x="-10.68778"
+     y="316.4989"
+     id="text847"><tspan
+       sodipodi:role="line"
+       id="tspan845"
+       x="-10.68778"
+       y="316.4989">AsP</tspan></text>
+</svg>
