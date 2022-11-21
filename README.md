@@ -1,5 +1,5 @@
 # Foundry VTT DSA 4.1 Macros
-Diverse Macros für das Foundry VTT System **DSA 4.1**  
+Diverse Macros die ich für meine Gruppe erstellt habe, für das Foundry VTT System **DSA 4.1**  
 https://gitlab.com/foundry-vtt-dsa/dsa-4.1-core/dsa-4.1-system
 
 ## Installation (Windows)
