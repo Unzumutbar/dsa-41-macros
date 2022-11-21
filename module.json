@@ -33,6 +33,6 @@
           "module": "dsa-4.1-macros"
       }
     ],
-    "manifest": "https://raw.githubusercontent.com/Unzumutbar/dsa-41-compendiums/main/module.json",
-    "download": "https://github.com/Unzumutbar/releases/download/v1.1.0/dsa-41-macros-v1.0.0.zip"
+    "manifest": "https://raw.githubusercontent.com/Unzumutbar/dsa-41-macros/main/module.json",
+    "download": "https://github.com/Unzumutbar/dsa-41-macros/releases/download/v1.0.0/dsa-41-macros-v1.0.0.zip"
   }
