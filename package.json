@@ -1,6 +1,6 @@
 {
-  "name": "dsa-41-compendiums",
-  "version": "1.1.0",
+  "name": "dsa-41-macros",
+  "version": "1.0.0",
   "description": "Das Schwarze Auge 4.1 Macros für das Foundry Virtual TableTop System",
   "main": "module.json",
   "scripts": {
@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Oromis/dsa-41-compendiums.git"
+    "url": "git+https://github.com/Unzumutbar/dsa-41-macros.git"
   },
-  "author": "Oromis",
+  "author": "Unzumutbar",
   "license": "ISC",
-  "homepage": "https://github.com/Oromis/dsa-41-compendiums#readme"
+  "homepage": "https://github.com/Unzumutbar/dsa-41-macros#readme"
 }

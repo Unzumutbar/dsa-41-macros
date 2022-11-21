@@ -1,6 +1,6 @@
 const MODULE_JSON_PATH = './module.json'
 const MODULE_NAME = 'dsa-41-macros'
-const REPO_BASE_PATH = 'https://github.com/Oromis/dsa-41-macros'
+const REPO_BASE_PATH = 'https://github.com/Unzumutbar/dsa-41-macros'
 
 const fs = require('fs')
 const packageJson = require('../package.json')
