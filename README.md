@@ -18,9 +18,16 @@ dsa-41-macros
 │   LICENSE
 │   module.json    
 ││
+└───icons
+│   │   ...svg
+││
 └───packs
 │   │   dsa-41-macros.db 
 │   │   dsa-41-tables.db 
+
 ```
 4. Foundry VTT und Welt starten und Modul `DSA 4.1 Macros` dort aktivieren
 
+## Credits
+Ein Dank an SesuUisu für das umfassende Regenerationsmakro:
+https://github.com/SesuUisu/Foundry-DSA-Makros
